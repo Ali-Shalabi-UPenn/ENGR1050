@@ -75,13 +75,15 @@ Tentative schedule is below. Future lectures are subject to change. The course w
 
 ## Office Hours
 - Instructor: Prof. Nathaniel Trask, [ntrask@seas.upenn.edu]
-- Office Hours: Tuesdays 930-11, Amy Gutman Hall Room 519 (Corner of 34th and Chestnut)
-- Graduate TA: Ben Shaeffer, []
+- Office hours: Tuesdays 930-11, Amy Gutman Hall Room 519 (Corner of 34th and Chestnut)
+- Graduate TA: Ben Shaeffer, [ben31@seas.upenn.edu]
+- TA office hours: TBD
 - Additional help available by appointment.
 
 ## AI Policy
-- Use of AI tools (e.g., GitHub Copilot, ChatGPT) is permitted for learning and exploration. Work submitted should be your own.
-- Be extremely careful of falling for the common pitfall of overestimating your command of the material. Exams are designed to make sure you know material without help from a LLM.
+- Use of AI tools (e.g., GitHub Copilot, ChatGPT) is encouraged for learning and exploration. Work submitted should be your own.
+- Be extremely careful of falling for the common pitfall of overestimating your command of the material if you aren't regularly working *without* AI.
+- Exams are designed to make sure you know material without help from a LLM.
 - All submitted work must be your own. If you use AI-generated code or text, you must clearly cite the tool and describe how you used it.
-- Direct copying of solutions from AI or the internet without understanding is considered academic dishonesty.
-- If in doubt, ask the instructor for guidance on appropriate use of AI tools.
+- Direct copying of solutions from AI or the internet without understanding is considered academic dishonesty. It is easy for us to tell when you have copy and pasted something from ChatGPT. If we ask you to explain why you wrote code a certain way and you cannot, that is a problem.
+- If in doubt, ask the instructor for guidance on appropriate use of AI tools. We will devote a lecture or two to how to responsibly use AI.
