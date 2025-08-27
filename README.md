@@ -73,6 +73,8 @@ Tentative schedule is below. Future lectures are subject to change. The course w
 - In-class exercises: 33%
 - Exams/final project: 34%
 
+Your lowest homework and lowest two in-class exercises will be dropped. There will be no further extensions without appropriate documentation.
+
 ## Office Hours
 - Instructor: Prof. Nathaniel Trask, [ntrask@seas.upenn.edu]
 - Office hours: Tuesdays 930-11, Amy Gutman Hall Room 519 (Corner of 34th and Chestnut)
