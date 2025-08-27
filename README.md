@@ -9,7 +9,7 @@ Tentative schedule is below. Future lectures are subject to change. The course w
 ### Section 1: Python Fundamentals (Lectures 1-6)
 | Lec | Date       | Topic                        | Slides Link                | Notebook Link                | Additional Information from Lecture |
 |-----|------------|------------------------------|----------------------------|------------------------------|-------------------------------------|
-| 1   | 8/27/2025  | Introduction to Python       | [Slides](slides/lec01.pptx) | [Notebook](notebooks/lec01.ipynb)<br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PIMILab/ENGR1050/blob/main/notebooks/lec01.ipynb) | [Details](materials/lec01.md) |
+| 1   | 8/27/2025  | Introduction to Python       | [Slides](slides/Lecture_01.pptx) | [Notebook](notebooks/lec01.ipynb)<br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PIMILab/ENGR1050/blob/main/notebooks/lec01.ipynb) | [Details](materials/lec01.md) |
 | 2   | 9/1/2025   | (No Class - Labor Day)       |                            |                              |                                     |
 | 3   | 9/3/2025   | Variables and Data Types     |                            |                              |                                     |
 | 4   | 9/8/2025   | Control Flow                 |                            |                              |                                     |
