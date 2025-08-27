@@ -1,6 +1,6 @@
 # ENGR1050
 Course material for UPenn ENGR1050 Fall 2025
-All material will be hosted on this Github, assignments are to be returned through [Canvas](https://canvas.upenn.edu/courses/1881448), discussion through (Ed)[https://edstem.org/us/courses/84852/discussion]
+All material will be hosted on this Github, assignments are to be returned through [Canvas](https://canvas.upenn.edu/courses/1881448), discussion through [Ed](https://edstem.org/us/courses/84852/discussion)
 
 ## Syllabus
 
