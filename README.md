@@ -69,10 +69,9 @@ Tentative schedule is below. Future lectures are subject to change. The course w
 - All course content is organized by week in the folders above.
 
 ## Grade Breakdown
-- Homework Assignments: 40%
-- Quizzes: 20%
-- Final Project: 30%
-- Participation/Attendance: 10%
+- Homework Assignments: 33%
+- In-class exercises: 33%
+- Exams/final project: 34%
 
 ## Office Hours
 - Instructor: Prof. Nathaniel Trask, [ntrask@seas.upenn.edu]
