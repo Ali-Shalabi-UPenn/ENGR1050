@@ -6,48 +6,48 @@ All material will be hosted on this Github, assignments are to be returned throu
 
 Tentative schedule is below. Future lectures are subject to change. The course will be broken up into three sections, with a lightweight, pencil and paper exam at the end of each.
 
-### Section 1: Python Fundamentals (Lectures 1-6)
+### Section 1: Python Fundamentals (Lectures 1-9)
 | Lec | Date       | Topic                        | Slides Link                | Notebook Link                | Additional Information from Lecture |
 |-----|------------|------------------------------|----------------------------|------------------------------|-------------------------------------|
-| 1   | 8/27/2025  | Introduction to Python       | [Slides](slides/Lecture_01.pptx) | [Notebook](notebooks/lec01.ipynb)<br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PIMILab/ENGR1050/blob/main/notebooks/lec01.ipynb) | [Details](materials/lec01.md) |
+| 1   | 8/27/2025  | Introduction to Scientific Computing       | [Slides](slides/Lecture_01.pptx) | [Notebook](notebooks/lec01.ipynb)<br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PIMILab/ENGR1050/blob/main/notebooks/lec01.ipynb) | [Details](materials/lec01.md) |
 | 2   | 9/1/2025   | (No Class - Labor Day)       |                            |                              |                                     |
-| 3   | 9/3/2025   | Variables and Data Types     |                            |                              |                                     |
-| 4   | 9/8/2025   | Control Flow                 |                            |                              |                                     |
-| 5   | 9/10/2025  | Functions and Modules        |                            |                              |                                     |
-| 6   | 9/15/2025  | Midterm 1                    |                            |                              |                                 |
+| 3   | 9/3/2025   | Variables, Lists, If/For Loops and Baseball  |  no slides | [Notebook](notebooks/lec02.ipynb)<br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PIMILab/ENGR1050/blob/main/notebooks/lec02.ipynb) | [Details](materials/lec02.md) |
+| 4   | 9/8/2025   | Basic program structure - exercises                |                            |                              |                                     |
+| 5   | 9/10/2025  | Topic TBD        |                            |                              |                                     |
+| 6   | 9/15/2025  | Topic TBD                    |                            |                              |                                 |
+| 7   | 9/17/2025  | Topic TBD        |                            |                              |                                     |
+| 8   | 9/22/2025  | Topic TBD                     |                            |                              |                                     |
+| 9   | 9/24/2025  | Exam 1         |                            |                              |                                     |
 
-### Section 2: Modeling and Simulation (Lectures 7-12)
+### Section 2: Modeling and Simulation (Lectures 10-16)
 | Lec | Date       | Topic                        | Slides Link                | Notebook Link                | Additional Information from Lecture |
 |-----|------------|------------------------------|----------------------------|------------------------------|-------------------------------------|
-| 7   | 9/17/2025  | More Data Structures         |                            |                              |                                     |
-| 8   | 9/22/2025  | File I/O                     |                            |                              |                                     |
-| 9   | 9/24/2025  | Libraries & Packages         |                            |                              |                                     |
-| 10  | 9/29/2025  | Numpy Basics                 |                            |                              |                                     |
-| 11  | 10/1/2025  | Matplotlib & Plotting        |                            |                              |                                     |
+| 10  | 9/29/2025  | Topic TBD                 |                            |                              |                                     |
+| 11  | 10/1/2025  | Topic TBD        |                            |                              |                                     |
 |     | 10/6/2025  | Drop Period Ends             |                            |                              |                                 |
-| 12  | 10/6/2025  | Midterm 2                    |                            |                              |                                 |
+| 12  | 10/6/2025  | Topic TBD                    |                            |                              |                                 |
+| 13  | 10/8/2025  | Topic TBD          |                            |                              |                                     |
+|     | 10/9-10/12/2025 | Fall Term Break (No Class) |                            |                              |                                 |
+| 14  | 10/13/2025 | Topic TBD |                            |                              |                                     |
+| 15  | 10/15/2025 | Topic TBD            |                            |                              |                                     |
+| 16  | 10/20/2025 | Exam 2                    |                            |                              |                                     |
 
-### Section 3: Data Science and AI (Lectures 13-18)
+### Section 3: Data Science and AI (Lectures 17-24)
 | Lec | Date       | Topic                        | Slides Link                | Notebook Link                | Additional Information from Lecture |
 |-----|------------|------------------------------|----------------------------|------------------------------|-------------------------------------|
-| 13  | 10/8/2025  | Data Science Intro           |                            |                              |                                     |
-|     | 10/9-10/12/2025 | Fall Term Break (No Class) |                            |                              |                                 |
-| 14  | 10/13/2025 | Data Analysis Project Intro  |                            |                              |                                     |
-| 15  | 10/15/2025 | Review & Practice            |                            |                              |                                     |
-| 16  | 10/20/2025 | Topic TBD                    |                            |                              |                                     |
 | 17  | 10/22/2025 | Topic TBD                    |                            |                              |                                     |
 | 18  | 10/27/2025 | Midterm 3                    |                            |                              |                                 |
-
-### Section 4: Advanced Topics (Lectures 19-30)
-| Lec | Date       | Topic                        | Slides Link                | Notebook Link                | Additional Information from Lecture |
-|-----|------------|------------------------------|----------------------------|------------------------------|-------------------------------------|
 | 19  | 10/29/2025 | Topic TBD                    |                            |                              |                                     |
 |     | 11/3/2025  | Last Day to Withdraw from a Course |                    |                              |                                 |
 | 20  | 11/3/2025  | Topic TBD                    |                            |                              |                                     |
 | 21  | 11/5/2025  | Topic TBD                    |                            |                              |                                     |
 | 22  | 11/10/2025 | Topic TBD                    |                            |                              |                                     |
 | 23  | 11/12/2025 | Topic TBD                    |                            |                              |                                     |
-| 24  | 11/17/2025 | Topic TBD                    |                            |                              |                                     |
+| 24  | 11/17/2025 | Exam 3                    |                            |                              |                                     |
+
+### Section 4: Advanced Topics (Lectures 25-30)
+| Lec | Date       | Topic                        | Slides Link                | Notebook Link                | Additional Information from Lecture |
+|-----|------------|------------------------------|----------------------------|------------------------------|-------------------------------------|
 | 25  | 11/19/2025 | Topic TBD                    |                            |                              |                                     |
 | 26  | 11/24/2025 | Topic TBD                    |                            |                              |                                     |
 |     | 11/26/2025 | No Class (Thurs-Fri schedule on Tues/Wed) | | | |
