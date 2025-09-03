@@ -1,4 +1,4 @@
-# Lecture 3: Variables and Data Types
+# Lecture 3: Variables, Lists, If/For Loops and Baseball
 
 Today we introduced the basics of Python variables, how to create and use lists, how to use for loops to iterate over lists, and how to use if statements to control the logical flow of programs. We concluded with an in-class exercise to demonstrate how to combine these ideas to analyze a simple dataset of baseball statistics. At the end of this lecture you should be able to explain:
 
