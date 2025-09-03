@@ -7,6 +7,6 @@ Today we introduced the basics of Python variables, how to create and use lists,
 - What is a for loop? How to use them to process a list.
 - What is an if statement? How to use them to process each element of a list differently.
 
-Refer to [the lecture's Jupyter notebook](notebooks/lec03.ipynb) for details.
+Refer to [the lecture's Jupyter notebook](../notebooks/lec03.ipynb) for details.
 
 The in-class assignment for the day is to be submited on [Canvas](https://canvas.upenn.edu/courses/1881448/assignments/13942478) by Friday 9/5.
