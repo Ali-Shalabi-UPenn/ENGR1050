@@ -77,9 +77,9 @@ Your lowest homework and lowest two in-class exercises will be dropped. There wi
 
 ## Office Hours
 - Instructor: Prof. Nathaniel Trask, [ntrask@seas.upenn.edu]
-- Office hours: Tuesdays 930-11, Amy Gutman Hall Room 519 (Corner of 34th and Chestnut)
-- Graduate TA: Ben Shaeffer, [ben31@seas.upenn.edu]
-- TA office hours: TBD
+- Office hours: Tuesdays 930-11, Amy Gutmann Hall Room 519 (Corner of 34th and Chestnut)
+- Graduate TA: Ben Shaffer, [ben31@seas.upenn.edu]
+- TA office hours: Thursday 1130-130, Amy Gutmann Hall
 - Additional help available by appointment.
 
 ## AI Policy
