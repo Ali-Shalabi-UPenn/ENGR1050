@@ -13,11 +13,11 @@ Tentative schedule is below. Future lectures are subject to change. The course w
 | 2   | 9/1/2025   | (No Class - Labor Day)       |                            |                              |                                     |
 | 3   | 9/3/2025   | Variables, lists, if/for loops and baseball  |  no slides | [Notebook](notebooks/lec03.ipynb)<br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PIMILab/ENGR1050/blob/main/notebooks/lec03.ipynb) | [Details](materials/lec03.md) |
 | 4   | 9/8/2025   | Plotting, data cleanup, and uniaxial extension data |  no slides |  [Notebook](notebooks/lec04.ipynb)<br>[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/PIMILab/ENGR1050/blob/main/notebooks/lec04.ipynb)  | [Details](materials/lec04.md)|
-| 5   | 9/10/2025  | Topic TBD        |                            |                              |                                     |
-| 6   | 9/15/2025  | Topic TBD                    |                            |                              |                                 |
-| 7   | 9/17/2025  | Topic TBD        |                            |                              |                                     |
-| 8   | 9/22/2025  | Topic TBD                     |                            |                              |                                     |
-| 9   | 9/24/2025  | Exam 1         |                            |                              |                                     |
+| 5   | 9/10/2025  | Collecting data: while loops, widgits and Google forms | no slides | no notebook | [Details](materials/lec05.md)|
+| 6   | 9/15/2025  | Introduction to Raspberry Pi | no slides | no notebook | [Details](materials/lec06.md)|
+| 7   | 9/17/2025  | Functions and classes | no slides | no notebook | [Details](materials/lec07.md)|
+| 8   | 9/22/2025  | Python fundamentals review | no slides | no notebook | [Details](materials/lec08.md)|
+| 9   | 9/24/2025  | Exam | | | |
 
 ### Section 2: Modeling and Simulation (Lectures 10-16)
 | Lec | Date       | Topic                        | Slides Link                | Notebook Link                | Additional Information from Lecture |
