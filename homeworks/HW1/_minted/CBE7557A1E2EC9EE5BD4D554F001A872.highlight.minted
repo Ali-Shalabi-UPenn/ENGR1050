@@ -1,0 +1,10 @@
+\begin{MintedVerbatim}[commandchars=\\\{\}]
+\PYG{n}{firstNames} \PYG{o}{=} \PYG{p}{[}
+    \PYG{l+s+s2}{\PYGZdq{}Kyle\PYGZdq{}}\PYG{p}{,} \PYG{l+s+s2}{\PYGZdq{}Trea\PYGZdq{}}\PYG{p}{,} \PYG{l+s+s2}{\PYGZdq{}Bryce\PYGZdq{}}\PYG{p}{,} \PYG{l+s+s2}{\PYGZdq{}Alec\PYGZdq{}}\PYG{p}{,} \PYG{l+s+s2}{\PYGZdq{}J.T.\PYGZdq{}}\PYG{p}{,}
+    \PYG{l+s+s2}{\PYGZdq{}Nick\PYGZdq{}}\PYG{p}{,} \PYG{l+s+s2}{\PYGZdq{}Bryson\PYGZdq{}}\PYG{p}{,} \PYG{l+s+s2}{\PYGZdq{}Johan\PYGZdq{}}\PYG{p}{,} \PYG{l+s+s2}{\PYGZdq{}Cristian\PYGZdq{}}
+\PYG{p}{]}
+\PYG{n}{lastNames} \PYG{o}{=} \PYG{p}{[}
+    \PYG{l+s+s2}{\PYGZdq{}Schwarber\PYGZdq{}}\PYG{p}{,} \PYG{l+s+s2}{\PYGZdq{}Turner\PYGZdq{}}\PYG{p}{,} \PYG{l+s+s2}{\PYGZdq{}Harper\PYGZdq{}}\PYG{p}{,} \PYG{l+s+s2}{\PYGZdq{}Bohm\PYGZdq{}}\PYG{p}{,} \PYG{l+s+s2}{\PYGZdq{}Realmuto\PYGZdq{}}\PYG{p}{,}
+    \PYG{l+s+s2}{\PYGZdq{}Castellanos\PYGZdq{}}\PYG{p}{,} \PYG{l+s+s2}{\PYGZdq{}Stott\PYGZdq{}}\PYG{p}{,} \PYG{l+s+s2}{\PYGZdq{}Rojas\PYGZdq{}}\PYG{p}{,} \PYG{l+s+s2}{\PYGZdq{}Pache\PYGZdq{}}
+\PYG{p}{]}
+\end{MintedVerbatim}
